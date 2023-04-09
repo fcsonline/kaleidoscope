@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "scripts": {
+    "build": "node main"
+  },
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "chatgpt": "^5.2.2",
+    "dotenv": "^16.0.3",
+    "markdown-it": "^13.0.1"
+  },
+  "devDependencies": {
+    "prettier": "2.8.7"
+  }
+}
